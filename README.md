@@ -6,6 +6,10 @@ A comprehensive **Excel-based analytics dashboard** analyzing e-commerce sales p
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## Problem Statement
 
 An e-commerce superstore needed to understand:
